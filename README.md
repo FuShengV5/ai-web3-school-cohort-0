@@ -48,4 +48,24 @@ AI × Web3 School 是由 [LXDAO](https://lxdao.io/) 与 [ETHPanda](https://ethpa
 
 ---
 
+## Week 1 学习目标
+
+- [x] 初始化个人学习仓库结构
+- [x] 阅读 Handbook — Network（网络）章节
+- [ ] 完成 Network 最小实践：测试网交易追踪
+- [ ] 阅读 Handbook — Cryptography（密码学）
+- [ ] 阅读 Handbook — Wallet（钱包）
+- [ ] 完成至少 3 篇 daily note
+- [ ] 产出第一条 Handbook feedback
+
+## Learning Agent 初始化说明
+
+本仓库由 AI × Web3 School Learning Agent 辅助初始化，流程基于 [Learning Agent 启动 Prompt](https://aiweb3.school/learning-agent.zh.txt)：
+
+- **Agent 做了什么**：收集学员画像、创建 GitHub repo、初始化目录结构（daily/tasks/experiments/handbook-feedback/hackathon/submissions/templates）、写入 README/profile/learning-plan/模版文件、生成第一篇 daily note 草稿
+- **人工确认了什么**：仓库名与可见性、本地目录路径、commit 信息、推送操作；WCB Learning 页面任务确认和打卡提交仍需手动完成
+- **安全边界**：Agent 不接触 API Key、私钥、密码等敏感信息；所有写入操作前需人工确认
+
+---
+
 > 学习始于行动，proof-of-work 是最好的笔记。
