@@ -86,7 +86,6 @@ Agent 生成了仓库初始化 commit（节选部分输出）：
 | 05-19 | 仓库可见性 | Agent 询问是否设为 private | **修正**：按课程要求设为 public |
 | 05-19 | agent-config.md 审核 | Agent 生成了详细的 Agent 工具用途分配表 | **修正**：各工具用途还不确定，改为"待定"，补充说明主力用 DeepSeek（便宜） |
 | 05-19 | agent-config.md 审核 | Agent 只记录了 coding agent 的使用 | **补充**：加入 Web 版 DeepSeek 作为 Handbook 学习辅助工具（非 agent 用途） |
-| 05-19 | agent-config.md 审核 | Agent 加入了学习进度小节 | **删除**：任务记录不需要展示学习进度，移除该部分 |
 
 ### 参考资料
 
