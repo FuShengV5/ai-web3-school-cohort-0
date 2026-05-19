@@ -12,7 +12,8 @@
 
 ## 学习目标
 
-- [ ] 补齐 Web3 基础（钱包、合约、网络、账户抽象）
+- [ ] 系统补齐 AI 基础知识（LLM / Agent / MCP / Evaluation 等）
+- [ ] 了解 Web3 基础概念（网络、密码学、钱包、合约、账户抽象）
 - [ ] 掌握 AI × Web3 Bridge 核心技术栈
 - [ ] 完成至少一个 Agent 相关原型或 Hackathon 项目
 - [ ] 持续产出学习笔记与 Handbook feedback

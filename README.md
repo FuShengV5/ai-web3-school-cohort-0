@@ -50,13 +50,15 @@ AI × Web3 School 是由 [LXDAO](https://lxdao.io/) 与 [ETHPanda](https://ethpa
 
 ## Week 1 学习目标
 
+学习策略：AI 熟悉、Web3 零基础，先系统补齐 AI 知识，再进入 Web3。
+
 - [x] 初始化个人学习仓库结构
-- [x] 阅读 Handbook — Network（网络）章节
-- [ ] 完成 Network 最小实践：测试网交易追踪
-- [ ] 阅读 Handbook — Cryptography（密码学）
-- [ ] 阅读 Handbook — Wallet（钱包）
+- [x] 阅读 Handbook — AI 基础：LLM / Prompt / Context
+- [ ] 阅读 Handbook — AI 基础：RAG / Agent / Frameworks / MCP
+- [ ] 阅读 Handbook — AI 基础：Vibe Coding / Evaluation / Fine-tuning / Inference
 - [ ] 完成至少 3 篇 daily note
 - [ ] 产出第一条 Handbook feedback
+- [ ] 每日复习线上课内容并写入 daily note
 
 ## Learning Agent 初始化说明
 
