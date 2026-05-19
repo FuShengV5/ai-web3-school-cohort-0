@@ -84,6 +84,9 @@ Agent 生成了仓库初始化 commit（节选部分输出）：
 | 05-19 | Week 1 计划 | Agent 建议 Phase 1 先 AI + Web3 同步推进 | **修正**：改为 AI 优先、Web3 为辅，先系统补齐 AI 再进入 Web3 |
 | 05-19 | 学习计划措辞 | Agent 初始生成的 learning-plan 描述了"熟悉 Web3 开发" | **修正**：改为"Web3 新手，了解为主"，更符合实际情况 |
 | 05-19 | 仓库可见性 | Agent 询问是否设为 private | **修正**：按课程要求设为 public |
+| 05-19 | agent-config.md 审核 | Agent 生成了详细的 Agent 工具用途分配表 | **修正**：各工具用途还不确定，改为"待定"，补充说明主力用 DeepSeek（便宜） |
+| 05-19 | agent-config.md 审核 | Agent 只记录了 coding agent 的使用 | **补充**：加入 Web 版 DeepSeek 作为 Handbook 学习辅助工具（非 agent 用途） |
+| 05-19 | agent-config.md 审核 | Agent 加入了学习进度小节 | **删除**：任务记录不需要展示学习进度，移除该部分 |
 
 ### 参考资料
 
