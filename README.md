@@ -59,6 +59,7 @@ AI × Web3 School 是由 [LXDAO](https://lxdao.io/) 与 [ETHPanda](https://ethpa
 - [ ] 完成至少 3 篇 daily note
 - [ ] 产出第一条 Handbook feedback
 - [ ] 每日复习线上课内容并写入 daily note
+- [ ] （进度允许）阅读 Handbook — Web3 基础前三章：Network / Cryptography / Wallet
 
 ## Learning Agent 初始化说明
 
