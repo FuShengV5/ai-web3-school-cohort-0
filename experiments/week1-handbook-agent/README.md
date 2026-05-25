@@ -9,7 +9,7 @@
 
 ## 1. 解决什么学习问题
 
-AI × Web3 School 的 Handbook（https://aiweb3.school/zh/handbook/）内容丰富，覆盖 AI 基础、Web3 基础、AI × Web3 Bridge、前沿探索四大模块共 30+ 章节，但以网页形式呈现，用户需要手动翻阅查找。
+AI × Web3 School 的 Handbook（ https://aiweb3.school/zh/handbook/ ）内容丰富，覆盖 AI 基础、Web3 基础、AI × Web3 Bridge、前沿探索四大模块共 30+ 章节，但以网页形式呈现，用户需要手动翻阅查找。
 
 本工具将 Handbook 转化为**可对话的问答助手**：
 - 用户直接用自然语言提问（如"什么是 RAG？""LLM 的局限性有哪些？"）
